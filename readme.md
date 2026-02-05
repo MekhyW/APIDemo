@@ -1,5 +1,3 @@
-[[中文]](readme.md) [[English]](readme_en.md)
-
 # Usage Instructions
 
 API DOC
